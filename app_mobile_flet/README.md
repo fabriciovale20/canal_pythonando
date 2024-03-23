@@ -13,3 +13,7 @@ Em seguia será gerado o arquivo 'appflet.db'
 - Cadastro de produto (Descrição e Preço)
 - Listagem de todos os produtos cadastrados
 - Alerta de sucesso ou falha de cadastro de produto
+
+# Execução do código
+1. pip install -r requirements.txt
+2. Execute o arquivo ``app.py``
